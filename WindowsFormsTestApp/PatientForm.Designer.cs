@@ -111,9 +111,9 @@
             this.lblAddress.AutoSize = true;
             this.lblAddress.Location = new System.Drawing.Point(13, 143);
             this.lblAddress.Name = "lblAddress";
-            this.lblAddress.Size = new System.Drawing.Size(57, 13);
+            this.lblAddress.Size = new System.Drawing.Size(45, 13);
             this.lblAddress.TabIndex = 9;
-            this.lblAddress.Text = "First Name";
+            this.lblAddress.Text = "Address";
             // 
             // txtAddress
             // 
